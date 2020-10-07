@@ -11,6 +11,6 @@ all work related to mehlokhozi will be stored here
  (3)again direct you terminal go inside the file you just clone which is "mehlokhozi"
  (4)modifier thing there after you finish type ->git status
  (5)it will show you things that you have modifier
- (6)type ->add --all
+ (6)type -> git add --all
  (7)type ->git commit -m "modified "
  
