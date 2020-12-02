@@ -1,0 +1,28 @@
+{
+  "name": "mehlokhozi",
+  "version": "1.0.0",
+  "description": "cypress e2e automation,test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pro-lover/Mehlokhozi.git",
+    "cypress":"cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "automation"
+  ],
+  "author": "cope automation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pro-lover/Mehlokhozi/issues"
+  },
+  "homepage": "https://github.com/pro-lover/Mehlokhozi#readme",
+  "dependencies": {
+    "cypress": "^6.0.1"
+  }
+}
